@@ -1,4 +1,4 @@
-# Personal-Finance-Portfolio
+# Budget-Beacon
 
 A personal finance dashboard to visualize and analyze financial data, tracking expenses,
 income, and financial goals for better management.
